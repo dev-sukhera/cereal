@@ -2,6 +2,9 @@
 
 This project is a local prototype for the CerealBox Agency AI automation challenge. Its custom Flask, HTML, CSS and JavaScript interface runs on your computer; nothing is deployed.
 
+Loom Video URL: https://www.loom.com/share/e1cd7257cc544ce9a561effd73a05032
+
+
 ## What this project does
 
 Each of the nine challenge workflows has its own section, arranged in a guided sequence:
@@ -222,4 +225,4 @@ The order is simple. Start where data and text already work and the risk is low,
 3. A proper review queue (approve, edit, reject with a reason) and logged feedback, so we can measure quality instead of guessing.
 4. Then grow the media side (statics, video, UGC) one client at a time.
 
-The detailed version lives in [docs/ROADMAP.md](./docs/ROADMAP.md).
+
